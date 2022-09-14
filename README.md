@@ -5,7 +5,7 @@ Tutor: [Mayk Brito](https://github.com/maykbrito);
 
 NLW: [Figma Project](https://www.figma.com/file/b1TZpRBYjG3hFAaqCpFT6M/NLW-eSports-(Community)?node-id=79%3A2502);
 
-![alt text](./Logo-NLW-eSports.svg)
+![alt text](assets/Logo-NLW-eSports.svg)
 
 ## About this project:
 This GameHub website is a link centering project, like linktree style for gamers.
