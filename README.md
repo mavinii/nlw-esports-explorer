@@ -1,13 +1,12 @@
 # `<nlw/>` eSports
-This event is/was hosted by [RocketSeat](https://www.rocketseat.com.br).
-
-Tutor: [Mayk Brito](https://github.com/maykbrito);
-
-NLW: [Figma Project](https://www.figma.com/file/b1TZpRBYjG3hFAaqCpFT6M/NLW-eSports-(Community)?node-id=79%3A2502);
-
-My Project: [Web Site](https://mavinii.github.io/nlw-esports-explorer/);
-
 ![alt text](assets/Logo-NLW-eSports.svg)
+
+## Project Links:
+- Final Web Page: [nlw esports](https://mavinii.github.io/nlw-esports-explorer/).
+
+- Figma Project: [nlw](https://www.figma.com/file/b1TZpRBYjG3hFAaqCpFT6M/NLW-eSports-(Community)?node-id=79%3A2502).
+
+- Tutor Mayk Brito: [github](https://github.com/maykbrito).
 
 ## About this project:
 This GameHub website is a link centering project, like linktree style for gamers.
@@ -49,6 +48,8 @@ State 5/6 | `Final Round`.
 State 6/6 | `The Next Level`.
 
 ### Copyright
+This event is/was hosted by [RocketSeat](https://www.rocketseat.com.br).
+
 Please note, this project is part of [RocketSeat](https://www.rocketseat.com.br) project, however, it may contain some parte of code that may be Copyright.
 
 Please also note that, this project is non-profit or not intended to be monetized.
