@@ -5,6 +5,8 @@ Tutor: [Mayk Brito](https://github.com/maykbrito);
 
 NLW: [Figma Project](https://www.figma.com/file/b1TZpRBYjG3hFAaqCpFT6M/NLW-eSports-(Community)?node-id=79%3A2502);
 
+My Project: [Web Site](https://mavinii.github.io/nlw-esports-explorer/);
+
 ![alt text](assets/Logo-NLW-eSports.svg)
 
 ## About this project:
@@ -38,7 +40,7 @@ State 2/6 | `High Speed`. Hands on the coding and creation the project scructure
 State 3/6 | `To be Continued`. In this class, we learned how to implement display: flex; in sections. How to reset the body's position and how to apply some concepts of figma in our application.
 
 ## Fourth Class:
-State 4/6 | `Power Up`.
+State 4/6 | `Power Up`. For this class, I added the main image profile to the top of the page and some additional effects with :hover properties in css.
 
 ## Fifth Class:
 State 5/6 | `Final Round`.
