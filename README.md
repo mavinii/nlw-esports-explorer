@@ -16,10 +16,10 @@ Next Level Project created with `RocketSeat`.
 - Tutor Mayk Brito: [github](https://github.com/maykbrito).
 
 ## First Class:
-State 1/6 | `Base Building`. We prepared our environment with all the bases to start our project.
+State 1/5 | `Base Building`. We prepared our environment with all the bases to start our project.
 
 ## Second Class:
-State 2/6 | `High Speed`. Hands on the coding and creation the project scructure with `html`:
+State 2/5 | `High Speed`. Hands on the coding and creation the project scructure with `html`:
 ```html
 <main>
     <section>
@@ -40,13 +40,13 @@ State 2/6 | `High Speed`. Hands on the coding and creation the project scructure
 ```
 
 ## Third Class:
-State 3/6 | `To be Continued`. In this class, we learned how to implement display: flex; in sections. How to reset the body's position and how to apply some concepts of figma in our application.
+State 3/5 | `To be Continued`. In this class, we learned how to implement display: flex; in sections. How to reset the body's position and how to apply some concepts of figma in our application.
 
 ## Fourth Class:
-State 4/6 | `Power Up`. For this class, I added the main image profile to the top of the page and some additional effects with :hover properties in css.
+State 4/5 | `Power Up`. For this class, I added the main image profile to the top of the page and some additional effects with :hover properties in css.
 
 ## Fifth Class:
-State 5/6 | `Final Round`. What happened in this class was that, we uploaded the final project to github, creating a public link as well as uploaded the final project image.
+State 5/5 | `Final Round`. What happened in this class was that, we uploaded the final project to github, creating a public link as well as uploaded the final project image.
 
 ## Copyright
 This event is/was hosted by [RocketSeat](https://www.rocketseat.com.br).
