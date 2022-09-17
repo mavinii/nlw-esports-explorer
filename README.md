@@ -1,5 +1,12 @@
 # `<nlw/>` eSports
-![alt text](assets/Logo-NLW-eSports.svg)
+
+## About this Project:
+Next Level Project created with `RocketSeat`.
+- HTML
+- CSS
+- Git and GitHub
+
+![preview](./.github/preview.png)
 
 ## Project Links:
 - Final Web Page: [nlw esports](https://mavinii.github.io/nlw-esports-explorer/).
@@ -7,9 +14,6 @@
 - Figma Project: [nlw](https://www.figma.com/file/b1TZpRBYjG3hFAaqCpFT6M/NLW-eSports-(Community)?node-id=79%3A2502).
 
 - Tutor Mayk Brito: [github](https://github.com/maykbrito).
-
-## About this project:
-This GameHub website is a link centering project, like linktree style for gamers.
 
 ## First Class:
 State 1/6 | `Base Building`. We prepared our environment with all the bases to start our project.
@@ -42,12 +46,9 @@ State 3/6 | `To be Continued`. In this class, we learned how to implement displa
 State 4/6 | `Power Up`. For this class, I added the main image profile to the top of the page and some additional effects with :hover properties in css.
 
 ## Fifth Class:
-State 5/6 | `Final Round`.
+State 5/6 | `Final Round`. What happened in this class was that, we uploaded the final project to github, creating a public link as well as uploaded the final project image.
 
-## Sixth Class:
-State 6/6 | `The Next Level`.
-
-### Copyright
+## Copyright
 This event is/was hosted by [RocketSeat](https://www.rocketseat.com.br).
 
 Please note, this project is part of [RocketSeat](https://www.rocketseat.com.br) project, however, it may contain some parte of code that may be Copyright.
